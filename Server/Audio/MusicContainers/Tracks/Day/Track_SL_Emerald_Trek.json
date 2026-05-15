@@ -1,0 +1,6 @@
+{
+  "Type": "SingleTrack",
+  "NameTranslationKey": "server.music.Track_SL_Emerald_Trek.name",
+  "Track": "Music/zUnused/EmeraldTrek.ogg",
+  "LoopCount": 1
+}

@@ -1,0 +1,6 @@
+{
+  "Type": "SingleTrack",
+  "NameTranslationKey": "server.music.Track_SL_Fight_Or_Flight.name",
+  "Track": "Music/zUnused/FightorFlight.ogg",
+  "LoopCount": 1
+}

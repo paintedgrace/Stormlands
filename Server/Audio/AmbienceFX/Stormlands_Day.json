@@ -1,0 +1,14 @@
+{
+  "Conditions": {
+    "DayTime": {
+      "Min": 5,
+      "Max": 19
+    },
+    "EnvironmentTagPattern": {
+      "Op": "Equals",
+      "Tag": "Thunderstorm"
+    }
+  },
+  "MusicContainer": "MC_Stormlands_Day",
+  "Priority": 20
+}

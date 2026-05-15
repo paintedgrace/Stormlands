@@ -1,0 +1,46 @@
+{
+  "Type": "Random",
+  "AudioCategory": "AudioCat_Music",
+  "Mode": "Random",
+  "LoopCount": 0,
+  "AvoidRepeatCount": 4,
+  "Children": [
+    {
+      "Parent": "Track_SL_New_Horizons",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_SL_Art_Of_The_Dance"
+    },
+    {
+      "Parent": "Track_SL_Challenging_Problem"
+    },
+    {
+      "Parent": "Track_SL_Elemental_Lightning"
+    },
+    {
+      "Parent": "Track_SL_Emerald_Trek"
+    },
+    {
+      "Parent": "Track_SL_Fight_Or_Flight"
+    },
+    {
+      "Parent": "Track_SL_Hope_And_Wonder"
+    },
+    {
+      "Parent": "Track_SL_Into_The_Endless_Sky"
+    },
+    {
+      "Parent": "Track_SL_Personal_Space"
+    },
+    {
+      "Parent": "Track_SL_Eternal_Life"
+    },
+    {
+      "Parent": "Track_SL_Mori_No_Mura"
+    }
+  ]
+}

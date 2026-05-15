@@ -1,0 +1,51 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Min": -1,
+      "Max": -0.66,
+      "Biome": "Thunderstorm_Biome"
+    },
+    {
+      "Biome": "Thunderstorm_Plains",
+      "Min": -0.66,
+      "Max": -0.5
+    },
+    {
+      "Min": -0.5,
+      "Max": 0,
+      "Biome": "Thunderstorm_River"
+    },
+    {
+      "Biome": "Thunderstorm_Plains",
+      "Min": 0,
+      "Max": 1
+    }
+  ],
+  "DefaultBiome": "Thunderstorm_Biome",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map"
+  },
+  "Framework": [
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 100
+        },
+        {
+          "Name": "Water",
+          "Value": 100
+        },
+        {
+          "Name": "Bedrock",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "Type": "Random",
+  "AudioCategory": "AudioCat_Music",
+  "Mode": "Random",
+  "LoopCount": 0,
+  "AvoidRepeatCount": 4,
+  "Children": [
+    {
+      "Parent": "Track_Z3AN_Starlight_Canopy",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Refuge_From_The_Storm",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Shelter",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Stars_Above_The_Campfire",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Cold_Moon",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_01",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_02",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_03",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_04",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_05",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_06",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_07",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_08",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_09",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3AN_Ambient_Fragments_10",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Silence",
+      "Weight": 2.05
+    }
+  ]
+}

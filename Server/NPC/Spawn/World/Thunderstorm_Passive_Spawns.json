@@ -1,0 +1,65 @@
+{
+  "NPCs": [
+    {
+      "Id": "Mouflon",
+      "Weight": 17,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Mouflon",
+      "Weight": 10,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Frog_Orange",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Mud"
+    },
+    {
+      "Id": "Vulture",
+      "Weight": 1,
+      "SpawnBlockSet": "Birds"
+    },
+    {
+      "Id": "Raven",
+      "Weight": 2
+    },
+    {
+      "Id": "Catfish",
+      "Weight": 6,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Minnow",
+      "Weight": 14,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Squirrel",
+      "Weight": 5,
+      "SpawnBlockSet": "Grass"
+    },
+    {
+      "Id": "Mosshorn",
+      "Weight": 5,
+      "SpawnBlockSet": "Mud",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Tetrabird",
+      "Weight": 6,
+      "SpawnBlockSet": "Moss",
+      "Flock": "Group_Tiny"
+    }
+  ],
+  "Environments": [
+    "Thunderstorm"
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

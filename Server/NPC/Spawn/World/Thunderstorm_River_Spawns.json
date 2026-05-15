@@ -1,0 +1,54 @@
+{
+  "Environments": [
+    "Thunderstorm_River"
+  ],
+  "NPCs": [
+    {
+      "Id": "Catfish",
+      "Weight": 20,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Minnow",
+      "Weight": 20,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Trilobite_Black",
+      "Weight": 7,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Eel_Moray",
+      "Weight": 5
+    },
+    {
+      "Id": "Jellyfish_Green",
+      "Weight": 5,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Shark_Hammerhead",
+      "Weight": 1,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Clownfish",
+      "Weight": 7,
+      "Flock": "Group_Small",
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Jellyfish_Yellow",
+      "Weight": 6,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Zombie_Aberrant_Small",
+      "Weight": 3,
+      "SpawnFluidTag": "",
+      "SpawnBlockSet": "Sand"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Type": "SingleTrack",
+  "NameTranslationKey": "server.music.Track_SL_Eternal_Life.name",
+  "Track": "Music/Zone4/Z4A_Eternal_Life.ogg",
+  "LoopCount": 1
+}
