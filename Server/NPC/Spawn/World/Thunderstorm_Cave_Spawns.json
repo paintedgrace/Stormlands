@@ -1,0 +1,12 @@
+{
+  "Environments": [
+    "Thunderstorm_Caves"
+  ],
+  "NPCs": [
+    {
+      "Id": "Rat",
+      "Weight": 8,
+      "SpawnBlockSet": "Rock"
+    }
+  ]
+}
